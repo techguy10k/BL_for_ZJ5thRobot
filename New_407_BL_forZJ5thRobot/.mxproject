@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=D:/develop/MCU/STM32/TestProject/BL_for_ZJ5thRobot/New_407_BL_forZJ5thRobot/Inc
+HeaderPath=D:/Download/Github repositories/BL_for_ZJ5thRobot/New_407_BL_forZJ5thRobot/Inc
 HeaderFiles=gpio.h;ffconf.h;bsp_driver_sd.h;sd_diskio.h;fatfs.h;sdio.h;usart.h;stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;sys.h;
-SourcePath=D:/develop/MCU/STM32/TestProject/BL_for_ZJ5thRobot/New_407_BL_forZJ5thRobot/Src
+SourcePath=D:/Download/Github repositories/BL_for_ZJ5thRobot/New_407_BL_forZJ5thRobot/Src
 SourceFiles=gpio.c;bsp_driver_sd.c;sd_diskio.c;fatfs.c;sdio.c;usart.c;stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;sys.c;
 
 [PreviousLibFiles]

@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define>USE_HAL_DRIVER,STM32F407xx,USE_HAL_DRIVER,STM32F407xx</Define>
               <Undefine></Undefine>
-              <IncludePath>../Inc;                  ../Drivers/STM32F4xx_HAL_Driver/Inc;                  ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;                  ../Middlewares/Third_Party/FatFs/src;                  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include;                  ../Drivers/CMSIS/Include;                  ..\User\H</IncludePath>
+              <IncludePath>../Inc;                   ../Drivers/STM32F4xx_HAL_Driver/Inc;                   ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;                   ../Middlewares/Third_Party/FatFs/src;                   ../Drivers/CMSIS/Device/ST/STM32F4xx/Include;                   ../Drivers/CMSIS/Include;                   ..\User\H</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -476,9 +476,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::CMSIS</GroupName>
-        </Group>
-        <Group>
           <GroupName>Drivers/STM32F4xx_HAL_Driver</GroupName>
           <Files>
             <File>
@@ -602,6 +599,9 @@
               <FilePath>../Middlewares/Third_Party/FatFs/src/option/ccsbcs.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::CMSIS</GroupName>
         </Group>
       </Groups>
     </Target>

@@ -868,10 +868,10 @@ ARM Macro Assembler    Page 14
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --depend=n
 ew_407_bl_forzj5throbot\startup_stm32f407xx.d -onew_407_bl_forzj5throbot\startu
-p_stm32f407xx.o -I.\RTE\_New_407_BL_forZJ5thRobot -ID:\WLYS\Documents\KeilPack\
-ARM\CMSIS\5.6.0\CMSIS\Core\Include -ID:\WLYS\Documents\KeilPack\Keil\STM32F4xx_
+p_stm32f407xx.o -I.\RTE\_New_407_BL_forZJ5thRobot -ID:\Download\Keil_ARM\Packs\
+ARM\CMSIS\5.5.1\CMSIS\Core\Include -ID:\Download\Keil_ARM\Packs\Keil\STM32F4xx_
 DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include --predefine="__MICROLIB SE
-TA 1" --predefine="__UVISION_VERSION SETA 528" --predefine="_RTE_ SETA 1" --pre
+TA 1" --predefine="__UVISION_VERSION SETA 527" --predefine="_RTE_ SETA 1" --pre
 define="STM32F407xx SETA 1" --list=startup_stm32f407xx.lst startup_stm32f407xx.
 s
 
